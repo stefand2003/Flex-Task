@@ -1,0 +1,60 @@
+header {
+  border: 3px dodgerblue dotted;
+  max-width: 1400px;
+  height: 700px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.box {
+  border: 2px red dotted;
+  width: 600px;
+  height: 500px;
+}
+
+.box2 {
+  border: 2px red dotted;
+  width: 500px;
+  height: 600px;
+}
+
+.boxdiv {
+  border: 2px green dotted;
+  width: 500px;
+  height: 100px;
+}
+
+.follow {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  padding-left: 100px;
+}
+
+.followme {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+}
+
+.nav {
+  border: 2px darkred dotted;
+  width: 120px;
+  height: 20px;
+}
+
+.applytext {
+  border: 2px green dotted;
+  width: 500px;
+  height: 300px;
+}
+
+.applytext2 {
+  border: 2px green dotted;
+  width: 500px;
+  height: 250px;
+}
